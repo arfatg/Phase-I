@@ -1,0 +1,38 @@
+package com.lockedme;
+
+import java.util.List;
+import java.util.Scanner;
+
+public class FileOperations {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public static void createMainFolderIfNotPresent(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public static void deleteFileRecursively(String path) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public static List<String> displayFileLocations(String fileName, String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public static void createFile(String fileToAdd, Scanner sc) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public static void displayAllFiles(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

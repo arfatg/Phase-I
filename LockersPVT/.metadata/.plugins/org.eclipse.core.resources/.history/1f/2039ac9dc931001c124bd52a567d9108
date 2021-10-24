@@ -1,0 +1,10 @@
+package com.lockedme;
+
+public class HandleOptions {
+
+	public static void handleWelcomeScreenInput() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

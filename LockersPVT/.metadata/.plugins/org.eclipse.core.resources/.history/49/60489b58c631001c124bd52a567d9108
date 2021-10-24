@@ -1,0 +1,10 @@
+package com.lockedme;
+
+public class MenuOptions {
+
+	public static void printWelcomeScreen(String string, String string2) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
